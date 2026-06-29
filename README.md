@@ -1,4 +1,4 @@
-# FX Analysis Engine
+# FX Analysis Engine，人民币汇率走势分析系统
 
 💱 Production-grade multi-currency FX analysis system.
 
